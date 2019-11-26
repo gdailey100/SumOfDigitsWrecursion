@@ -1,0 +1,7 @@
+C:\Users\Glenn\source\repos\Sumof DigitswRecursion\Sumof DigitswRecursion\bin\Debug\Sumof DigitswRecursion.exe.config
+C:\Users\Glenn\source\repos\Sumof DigitswRecursion\Sumof DigitswRecursion\bin\Debug\Sumof DigitswRecursion.exe
+C:\Users\Glenn\source\repos\Sumof DigitswRecursion\Sumof DigitswRecursion\bin\Debug\Sumof DigitswRecursion.pdb
+C:\Users\Glenn\source\repos\Sumof DigitswRecursion\Sumof DigitswRecursion\obj\Debug\Sumof DigitswRecursion.csprojResolveAssemblyReference.cache
+C:\Users\Glenn\source\repos\Sumof DigitswRecursion\Sumof DigitswRecursion\obj\Debug\Sumof DigitswRecursion.csproj.CoreCompileInputs.cache
+C:\Users\Glenn\source\repos\Sumof DigitswRecursion\Sumof DigitswRecursion\obj\Debug\Sumof DigitswRecursion.exe
+C:\Users\Glenn\source\repos\Sumof DigitswRecursion\Sumof DigitswRecursion\obj\Debug\Sumof DigitswRecursion.pdb
